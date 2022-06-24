@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on "Ukrzaliznitsya".
 - 🌱 I’m currently learning JavaScript, JQuery, Node.js, React.
 - 📫 How to reach me: <a href="mailto:ingerard@gmail.com">ingerard@gmail.com</a>
-- 🌍 I speak Russian (native), English (B2)
+- 🌍 I speak Ukrainian (native), English (A2-B1)
 
 ### Connect with me:
 <p align="left">
