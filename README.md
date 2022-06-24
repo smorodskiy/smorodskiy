@@ -42,12 +42,6 @@ Here are some ideas to get you started:
 
 ### 🧑‍💻 This week I spent my time on
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   2 mins          ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-HTML/CSS     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-```
-
 <!--END_SECTION:waka-->
 
 [![codewars](https://www.codewars.com/users/smorodskiy/badges/small)](https://www.codewars.com/users/smorodskiy)
