@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+JavaScript   2 mins          ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
 HTML/CSS     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
