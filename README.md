@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 ### Languages:
 <p align="left"> 
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/smorodskiy/smorodskiy/blob/main/javascript.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/smorodskiy/smorodskiy/blob/main/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/smorodskiy/smorodskiy/blob/main/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/smorodskiy/smorodskiy/blob/main/react-js.svg" alt="" width="40" height="40"/> </a> 
