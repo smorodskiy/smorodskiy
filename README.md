@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://t.me/ingerard" target="blank"><img align="center" src="https://github.com/smorodskiy/smorodskiy/blob/main/Telegram.svg" alt="smorodskiy" height="40" width="40" /></a>
 <a href="https://www.facebook.com/igor.smorodsky" target="blank"><img align="center" src="https://github.com/smorodskiy/smorodskiy/blob/main/Facebook.svg" alt="smorodskiy" height="40" width="40" /></a>
+<a href="www.linkedin.com/in/igor-smorodsky-49515121a" target="blank"><img align="center" src="https://github.com/smorodskiy/smorodskiy/blob/main/linkedin.svg" alt="smorodskiy" height="40" width="40" /></a>
 
 
 ### Languages:
