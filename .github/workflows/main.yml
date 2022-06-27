@@ -1,6 +1,12 @@
 name: Work Stats Readme
 
 on:
+  push:
+    branches: [master]
+  schedule:
+    - cron: "1 0 * * *"
+
+on:
   workflow_dispatch:
   schedule:
     # Runs every 2 hours
