@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="mailto:ingerard@gmail.com">ingerard@gmail.com</a>
 - 🌍 I speak Ukrainian (native), English (A2-B1)
 
+- My portfolio <a href="https://smorodskiy.github.io/PortfolioX" target="_blank" rel="noreferrer">*tap*</a> 
+
 ### Connect with me:
 <p align="left">
 <a href="https://t.me/ingerard" target="blank"><img align="center" src="https://github.com/smorodskiy/smorodskiy/blob/main/Telegram.svg" alt="smorodskiy" height="40" width="40" /></a>
@@ -48,6 +50,5 @@ Here are some ideas to get you started:
 ### 🧑‍💻 This week I spent my time on
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-- <a href="https://smorodskiy.github.io/PortfolioX" target="_blank" rel="noreferrer">My portfolio</a> 
 
 [![codewars](https://www.codewars.com/users/smorodskiy/badges/small)](https://www.codewars.com/users/smorodskiy)
