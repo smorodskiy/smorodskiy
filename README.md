@@ -49,4 +49,5 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<a href="https://smorodskiy.github.io/PortfolioX" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/>My portfolio</a> 
 [![codewars](https://www.codewars.com/users/smorodskiy/badges/small)](https://www.codewars.com/users/smorodskiy)
