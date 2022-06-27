@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 
 ### 🧑‍💻 This week I spent my time on
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
-
+test
 [![codewars](https://www.codewars.com/users/smorodskiy/badges/small)](https://www.codewars.com/users/smorodskiy)
