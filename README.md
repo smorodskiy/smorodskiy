@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="mailto:ingerard@gmail.com">ingerard@gmail.com</a>
 - 🌍 I speak Ukrainian (native), English (A2-B1)
 
-- My portfolio <a href="https://smorodskiy.github.io/PortfolioX" target="_blank" rel="noreferrer">*tap*</a> 
+- ✅ My portfolio <a href="https://smorodskiy.github.io/PortfolioX" target="_blank" rel="noreferrer">*tap*</a> 
 
 ### Connect with me:
 <p align="left">
