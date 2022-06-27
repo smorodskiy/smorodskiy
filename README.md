@@ -49,6 +49,13 @@ Here are some ideas to get you started:
 
 ### 🧑‍💻 This week I spent my time on
 <!--START_SECTION:waka-->
+
+```text
+CSS          6 hrs 9 mins    ███████████▓░░░░░░░░░░░░░   47.05 %
+HTML         4 hrs 20 mins   ████████▒░░░░░░░░░░░░░░░░   33.18 %
+Other        1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+```
+
 <!--END_SECTION:waka-->
 
 [![codewars](https://www.codewars.com/users/smorodskiy/badges/small)](https://www.codewars.com/users/smorodskiy)
