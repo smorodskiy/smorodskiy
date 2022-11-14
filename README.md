@@ -51,10 +51,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 55 mins   ████████████████████████░   95.97 %
-HTML         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   4 hrs 37 mins   ████████████████████████░   95.74 %
+HTML         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
